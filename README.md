@@ -2,6 +2,8 @@
 
 *A guide written by Urdhi for the RavenQuest community :heart:*
 
+![How to play RavenQuest on Linux](.assets/header.png)
+
 # Table of Contents
 1. [Prerequisites](#prerequisites)
 2. [Installing Heroic Games Launcher](#installing-heroic-games-launcher)
